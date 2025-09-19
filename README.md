@@ -1,20 +1,3 @@
-.
-├── main.nf
-├── nextflow.config
-├── conf/
-│ ├── base.config
-│ ├── slurm.config
-│ ├── docker.config
-│ ├── singularity.config
-│ └── conda.config
-├── envs/
-│ └── rna.yml
-├── containers/
-│ └── Dockerfile
-├── assets/
-│ ├── samplesheet.example.csv
-│ └── genome_urls.tsv
-└── README.md
 
 
 README.md
